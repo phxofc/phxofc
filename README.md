@@ -1,4 +1,4 @@
-
+### Hello! I'm Pedro Henrique 🤙
 ### Olá! Eu sou o Pedro Henrique 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohbdr/)
@@ -10,6 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phxofc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Technologies I use in my day
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -23,10 +24,11 @@
 
 </div><br/>
 
-
+"No matter how bad life gets, there is always something you can do and succeed. As long as there is life, there will be hope."
 "Não importa quanto a vida possa ser ruim, sempre existe algo que você pode fazer, e triunfar. Enquanto há vida, há esperança." 
 -Stephen Hawking
 
+## Contact email
 ## Email para contato:
 
 📨 Phdfrocha99@gmail.com
