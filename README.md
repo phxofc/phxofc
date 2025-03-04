@@ -21,6 +21,5 @@
 -Stephen Hawking
 
 ## Contact email
-## Email para contato:
 
 📨 Phdfrocha99@gmail.com
